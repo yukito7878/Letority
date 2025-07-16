@@ -377,7 +377,7 @@ section h3, div h3 {
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
-    width: 750px;
+    width: 80%;
     text-align: center;
     margin: auto;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -872,6 +872,7 @@ td {
         flex-direction: column;
         align-items: center;
         text-align: center;
+		width: 95%;
     }
 
     .list-links li img {
